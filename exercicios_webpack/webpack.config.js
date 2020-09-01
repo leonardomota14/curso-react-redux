@@ -9,7 +9,7 @@ module.exports = {
         filename: './bundle.js'
     },
     devServer: {
-        port: 8080,
+        port: 8082,
         contentBase: './public'
     },
     // ExtractTextPlugin foi adicionado no ex.10
